@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VardanianHw_4", "VardanianHw_4\VardanianHw_4.csproj", "{F7CDA201-3E07-490F-A549-3556020BC372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CDA201-3E07-490F-A549-3556020BC372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CDA201-3E07-490F-A549-3556020BC372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CDA201-3E07-490F-A549-3556020BC372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CDA201-3E07-490F-A549-3556020BC372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2549255C-1E21-4961-8018-E91E2BE4A77A}
+	EndGlobalSection
+EndGlobal
